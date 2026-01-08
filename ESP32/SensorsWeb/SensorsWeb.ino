@@ -34,7 +34,7 @@
 // Wi-Fi Configuration (PRIVATE)
 // -----------------------------------------------------------------------------
 
-#define WIFI_SSID     "YOUR_WIFI"
+#define WIFI_SSID     "YOUR_WIFI_SSID"
 #define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 // -----------------------------------------------------------------------------
